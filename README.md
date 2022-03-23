@@ -12,7 +12,7 @@
 
 
 ## Categorization of states into 4 quarters based on Per Capita rate
-![image.png](attachment:e57010a1-e8ea-4bf6-9684-07b4fe987859.png)
+![image](https://user-images.githubusercontent.com/20435849/159723065-0dc73a7d-865f-46d2-a490-0c11af45d896.png)
 
 ## Insights for GDP per capita and Total GDP
 
