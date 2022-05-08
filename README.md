@@ -1,6 +1,6 @@
 # Analysis and recommendation
 
-## Insights from GDP per Capita Analysis
+## Insights from India GDP per Capita Analysis
 * #### Overall India GDP growth is showing decline from 2012 to 2016
 * #### State-wise growth rate differs but most of the states are declining
 * #### Fast moving states are **Andhra Pradesh, Goa, and Jamu and Kashmir**
