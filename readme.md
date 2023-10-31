@@ -40,3 +40,8 @@
 #### 5. Each state should Manufacturing; Agriculture, forestry and fishing; Real Estate, and Trade; Real estate, ownership of dwelling & professional services; Trade, repair, hotels and restaurants; and construction sub- sectors to increase GSVA.
 #### 6. There is negative correlation between drop out rates and population. It means that when population increases the drop out decreases and when drop out increase the population decrease.
 #### 7. If government and each state invest on increasing the GDP per capita, the education drop out will get lower. An educated people will directly affect individual learnings resulting to higher GDP to the nation.
+
+## Data source
+The following data source has been used for this GDP Analysis
+
+https://github.com/mahmudie/Dataset
